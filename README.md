@@ -1,2 +1,2 @@
 # .github
-Community health files for the @repositoryarchives organization. 
+Community health files for the @repositoryarchive organization. 
